@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\ContohLinq\LinqLibrary\bin\Debug\LinqLibrary.dll
+C:\Users\lenovo\source\repos\ContohLinq\LinqLibrary\bin\Debug\LinqLibrary.pdb
+C:\Users\lenovo\source\repos\ContohLinq\LinqLibrary\obj\Debug\LinqLibrary.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ContohLinq\LinqLibrary\obj\Debug\LinqLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ContohLinq\LinqLibrary\obj\Debug\LinqLibrary.dll
+C:\Users\lenovo\source\repos\ContohLinq\LinqLibrary\obj\Debug\LinqLibrary.pdb
